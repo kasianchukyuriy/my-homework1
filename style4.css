@@ -1,0 +1,62 @@
+.block {
+    width: 800px;
+    height: 21px;
+    padding: 19px;
+    background-color: blue;
+}
+
+.block2 {
+    width: 800px;
+    height: 21px;
+    padding: 19px;
+    background-color: gold;
+}
+
+.block3 {
+    width: 800px;
+    height: 21px;
+    padding: 19px;
+    background-color: green;
+}
+
+.block p {
+    display: inline;
+    margin: 40px;
+}
+
+.block2 p {
+    display: inline;
+    margin: 40px;
+}
+
+.block3 p {
+    display: inline;
+    margin: 40px;
+}
+
+.blocktask {
+    width: 600px;
+    text-align: center;
+}
+
+.blockind {
+    width: 100px;
+    color: aliceblue;
+    text-align: right;
+
+}
+
+.blockend {
+    width: 100px;
+    color: aliceblue;
+
+    text-align: right;
+}
+
+body {
+    width: 840px;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px;
+    background-color: gray;
+}
